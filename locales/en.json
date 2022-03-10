@@ -1,0 +1,378 @@
+{
+  "navbar": {
+    "change_lang": "العربية",
+    "finx_expert": "Find an Expert",
+    "programs": "Programs",
+    "corporate": "Corporate",
+    "academy": "Academy",
+    "news": "News",
+    "news_category": "News categories",
+    "about": "About",
+    "contact_us": "Contact Us",
+    "logout": "Logout",
+    "profile": "Profile",
+    "signin": "Sign in",
+    "get_class": "Get a Free Class"
+  },
+  "home": "Home",
+  "auth": {
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "create_an_acoount": "Create an account",
+    "already_have_account": "Already have an account?",
+    "dont_have_account": "you don't HAVE AN ACCOUNT?",
+    "description": "Welcome to the tribe, where you will have access to our holistic directory of all wellbeing coaches and experts, wellness news, articles, programs, events and more.    ",
+    "forgot_password": "Forgot password?",
+    "for_experts": {
+      "title": "For Experts",
+      "practice": "Your Practice",
+      "terms_conditions": "I have read and agreed to the <a  href=/terms_conditions > Terms and Conditions and Privacy Policy </a> "
+    },
+    "for_individuals": {
+      "title": "For Individuals"
+    },
+    "restore_password": {
+      "title": "Restore password",
+      "code": "Enter Code",
+      "code_placeholder": "The code we sent you",
+      "remember_password": "I REMEMBER MY PASSWORD"
+    }
+  },
+  "messages": {
+    "saved": "Successfully saved!",
+    "sent": "Successfully sent!",
+    "delete_item": "Delete item?",
+    "logged_in": "Successfully logged in!",
+    "updated": "Successfully updated",
+    "no_results": "No results found",
+    "invalid_data": "The given data was invalid",
+    "no_data": "No data",
+    "check_before_saving": "Check the data before saving, it cannot be changed in the future.",
+    "thanks_for_review": "Thanks for the review!"
+  },
+  "buttons": {
+    "save": "Save",
+    "send": "Send",
+    "cancel": "Cancel",
+    "add": "Add",
+    "edit": "Edit",
+    "create": "Create",
+    "delete": "Delete",
+    "book_now": "Book Now",
+    "contact_us": "Contact Us",
+    "search": "Search",
+    "join_as_coach": "Join as a Coach",
+    "load_more": "Load More",
+    "subscibe": "Subscribe",
+    "find_an_expert": "Find an Expert",
+    "who_we_are": "Who We Are",
+    "view_programs": "view programs",
+    "meet_all_experts": "Meet All Experts",
+    "schedule_a_session": "Schedule a session",
+    "view_all_articles": "View All Articles",
+    "follow_us": "Follow us",
+    "schedule_appointment": "Schedule Appointment",
+    "schedule_new_appointment": "Schedule New Appointment",
+    "get_in_touch":"Get in Touch",
+    "start_journey":"Start your journey",
+    "leave_review": "Leave Review",
+    "subscribe_to_newsletter" : "Subscribe to our Weekly Newsletter"
+  },
+  "landing": {
+    "header": {
+      "title": "Your conscious journey into wellbeing starts here",
+      "subtext": "An all-inclusive wellbeing portal for you to find the best coach or expert to support your journey!"
+    },
+    "events": {
+      "title": "Events",
+      "subtext": "Find our latest wellness programs and events."
+    },
+    "about": {
+      "title": "Improve the quality of your life and wellbeing",
+      "subtext": "Forget about stressing over finding the perfect coach/ expert, because we take it upon ourselves to gather for you the best qualified coaches/ experts and carefully vet them to bring you a range of authentic, well-intended specialists to guide you in your journey. Our Servvices include one-on-one sessions, group sessions, and many more, with the choice of either working face-to-face or from the comfort of your home."
+    },
+    "experts": {
+      "title": "Our Experts",
+      "subtext": "Our team of well-rounded experts specialize in different fields to bringing significant experiences and knowledge to support you achieve  your goals."
+    },
+    "schedule": {
+      "title": "Ready to feel  better?<br />Book your 1:1 session today!",
+      "subtext": "Our professionals share a passion for empowering and helping clients overcome their life obstacles and reach their goals in the healthiest manner."
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "subtext": "See what others have to say about their journey working with our experts."
+    },
+    "news": {
+      "title": "Latest News",
+      "read_link": "READ ARTICLE"
+    },
+    "instagram_title": "The Tribe on Instagram"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "need_help": "Need a help?",
+    "contact_us": "Contact Us",
+    "expert": {
+      "title": "Expert",
+      "audience": "Audience",
+      "my_events": "My Events",
+      "profile_completed": "Profile completed",
+      "payments": "Payments"
+    },
+    "user": {
+      "paid_services": "Paid Services"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "login": "Login",
+    "chpassword": "Change password?",
+    "password": "Password",
+    "password_placeholder": "Minimum 8 characters",
+    "repassword": "Repeat Password",
+    "gender": "Gender",
+    "country": "Country of Residence",
+    "position": "Your title",
+    "specialisation": "Your Specialisation",
+    "biography": "Biography",
+    "biography_placeholder": "A short, memorable description to present yourself to the world.",
+    "background": "Background",
+    "background_placeholder": "About yourself",
+    "male": "Male",
+    "female": "Female",
+    "phone": "Phone Number",
+    "email": "Email",
+    "fname": "First Name",
+    "lname": "Last Name",
+    "full_name": "Full Name",
+    "full_name_placeholder": "What's your name?",
+    "iban": "IBAN"
+  },
+  "imagepicker": {
+    "uploadimage": "Upload Image"
+  },
+  "services": {
+    "title": "Service",
+    "title_pl": "Services",
+    "name": "Service Name",
+    "name_placeholder": "My service Name....",
+    "description": "Service Description",
+    "description_placeholder": "Type description here...",
+    "prices": "Prices",
+    "targets": {
+      "male": "Males only",
+      "female": "Females only",
+      "unisex": "Everyone"
+    },
+    "hours": "hour | hours",
+    "session": "session | sessions",
+    "free": "Free",
+    "sessions_left": "{count} session left | {count} sessions left",
+    "duration": "{min} min."
+  },
+  "confirmations": {
+    "you_sure": "Are you sure?"
+  },
+  "expert": {
+    "title": "Expert",
+    "brief": "Brief",
+    "background": "Background",
+    "config": {
+      "title": "Configurations",
+      "workinghours": {
+        "title": "Working Hours",
+        "from": "From",
+        "to": "To",
+        "day_off": "Day Off"
+      },
+      "details": {
+        "title": "Business Details",
+        "duration": "Session Duration",
+        "gap": "Session Gap",
+        "bio": "Bio",
+        "bio_ph": "Type your biography",
+        "about": "About",
+        "about_ph": "Type your description"
+      }
+    }
+  },
+  "chart": {
+    "weekly": "Weekly",
+    "monthly": "Monthly"
+  },
+  "packages": {
+    "title": "Package",
+    "title_pl": "Packages",
+    "anytime": "Choose Anytime",
+    "select": "Select Package"
+  },
+  "scheduled_events": {
+    "title": "Scheduled Events",
+    "no_data": "You don't have scheduled events on this date"
+  },
+  "recomended_experts": {
+    "title": "Recomended Experts"
+  },
+  "order": {
+    "confirmation": "Order confirmation",
+    "summary": "Order Summary",
+    "total": "Total",
+    "datetime": "Appointment Date & Time",
+    "no_timeslot": "The expert doesn't have free time slots on the selected date",
+    "payment_details": "Payment Details",
+    "new_appointment": "New Appointment"
+  },
+  "card_form": {
+    "card_number": "Card Number",
+    "expiration_date": "MM/YY",
+    "cvv": "CVV",
+    "card_holder": "Card Holder Name"
+  },
+  "dayofweek": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "validation": {
+    "passswork_missmatch": "Password mismatch"
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "subtext": "If you have any questions, want to join as a yoga instructor, or just want to say hi, feel free to fill the form below.",
+    "form": {
+      "label": {
+        "name": "Name",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "placeholder": {
+        "message": "What can we help you with? Feel free to be as detailed as possible.",
+        "select": "select an option"
+      },
+      "select": {
+        "options": {
+          "help": "How can we help",
+          "question": "General questions",
+          "sales": "Sales & pricing",
+          "yoga": "Yoga teachers"
+        }
+      }
+    },
+    "details": {
+      "title": "Contact Details",
+      "subtext": "If you need any help and prefer to reach out directly, feel free to do it via phone or email.",
+      "follow": {
+        "title": "Follow us on Social Media",
+        "subtext": "Follow us on Social Media to find great tips about Yoga, Healthy Lifestyle, and much more!"
+      }
+    },
+    "studio": {
+      "title": "Our Studio",
+      "subtext": "If you need any help and prefer to reach out directly, feel free to do it via phone or email.",
+      "bahrain": "Bahrain",
+      "address": "Building 2246 Road 511 Block 92, Manama"
+    }
+  },
+  "experts": {
+    "title": "Meet our Experts",
+    "subtext": "Our team of well-rounded experts specialize in different fields to bringing significant experiences and knowledge to help achieve your goals.",
+    "search_input": {
+      "placeholder": "Search for experts"
+    },
+    "team": {
+      "title": "Want to be part of the team?",
+      "subtext": "Our professionals share a passion for empowering and helping clients overcome their life obstacles and reach their goals in the healthiest manner."
+    },
+    "learn_more": "learn more",
+    "search_title": "Search results:"
+  },
+  "footer": {
+    "title": "Subscribe to our <br/> Weekly Newsletter!",
+    "input_placeholder": "Enter your email address",
+    "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in nulla pretium egestas. Id aliquam."
+  },
+  "payment_status": {
+    "success": "Success payment",
+    "failed": "Payment failed",
+    "processing": "Payment processing",
+    "try_again_later": "Please try again later",
+    "take_some_time": "It will take some time",
+    "to_dashboard": "Return to dashboard"
+  },
+  "warning": "Warning",
+  "news": {
+    "title": "Title",
+    "latest_news": "Latest News",
+    "related": "Related",
+    "latest_news_subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mus vulputate scelerisque mollis luctus risus nulla.",
+    "content": "Content",
+    "category": "Category",
+    "actions": "Actions",
+    "previous_page": "Previous Page",
+    "next_page": "Next Page",
+    "author_info": "Expect a fresh perspective on Fitness, Personal Challenges and Opportunities. I can help you find and reinvent your fit & healthy lifestyle by focusing on present and future Goals &  unlocking and being the human you want to be!"
+  },
+  "activation_requests": {
+    "title": "Activation Request",
+    "title_pl": "Activation Requests",
+    "position": "Position",
+    "tap_business_id": "Tap Business Id",
+    "tap_destination_id": "Tap Destination Id",
+    "expert_no_payment_data": "The expert has no Tap Business ID, this could happen for two reasons: the expert did not fill in the payment details or there was an error when trying to create a business in the Tap service.",
+    "approve": "Approve",
+    "reject": "Reject",
+    "no_payment_info": "You can't approve the expert without payment information",
+    "approve_conf": "Are you sure you want to approve the activation of the expert?",
+    "reject_message": "Reject message",
+    "verification_failed": "The verification failed for the following reason",
+    "verification_desc": "To start using the platform send a request for activation, so that we can check your profile data and, if it is valid, activate your profile.",
+    "review_in_proccess": "Review in process",
+    "send_again": "Send again",
+    "send_to_review": "Send to review"
+  },
+  "about": {
+    "title": "We Believe in Health is for All.",
+    "title_about":"About Us",
+    "legacy": {
+      "title": "Our Legacy",
+      "text": "We believe that people should have a safe space to come and feel welcomed, with all their challenges, broken pieces, and everything they've been told that, it can’t be healed."
+    },
+    "values": {
+      "title": "The Values That Guide Us",
+      "inclusive": "Inclusive & Empowering",
+      "lasting": "Lasting Impact",
+      "ongoing": "Ongoing Improvement"
+    },
+    "chief": {
+      "title": "Tribe Chief <br/> Hamad (The Nourisher) Al Saad",
+      "certified": "CERTIFIED HOLISTIC HEALTH & FOOD PSYCHOLOGY COACH",
+      "info": "An advocate of self-love and wellbeing, Hamad believes that for people to live a better life, they need to have harmony with every aspect of your lives. As most people put alot of effort on how they train and eat, not considering their mental state, emotions, thoughts, sleep etc to name of few. So he wanted to build this platform to create more awareness on how people can improve the quality of their lives, to educate them and to make it easier for them to seek help from the right coaches and experts, to embark on their healing journey with trust and accountability. <br/> With over 10 years experience in the field of health and wellbeing, he has built a tribe of trusted, passionate certified coaches and experts from different specialties, bringing them together to be easily found and linking them with people that need their support and to bring out their their full potential.    "
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "quest1": "What do I need to qualify for signing up as an Expert?",
+      "quest2": "What if I have an injury or physical condition?",
+      "quest3": "What types of programs do you offer for kids?",
+      "quest4": "How many times should I practice a week?",
+      "quest5": "Do I need to sign up for a session in advance?",
+      "quest6": "Is there an age limit to practicing yoga?"
+    },
+    "studio": {
+      "title": "Our Studio at a Glance"
+    },
+    "booking": {
+      "title": "Book Your Free Session <br/> Now!"
+    }
+  },
+  "fields": {
+    "status": "Status",
+    "date": "Date",
+    "review": "Review",
+    "score": "Score"
+  }
+}

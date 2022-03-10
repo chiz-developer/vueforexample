@@ -1,0 +1,43 @@
+{
+  "name": "kwonter-crm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dayjs": "^1.4.1",
+    "@nuxtjs/i18n": "^7.2.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/svg-sprite": "^0.5.2",
+    "@nuxtjs/toast": "^3.3.1",
+    "@tailwindcss/forms": "^0.4.0",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.15.1",
+    "floating-vue": "^1.0.0-beta.5",
+    "nuxt": "^2.15.7",
+    "object-to-formdata": "^4.4.1",
+    "v-calendar": "^2.3.4",
+    "vue-chartjs": "^3.5.1",
+    "vue-cool-lightbox": "^2.7.4",
+    "vue-form-generator": "^2.3.4",
+    "vue-js-modal": "^2.0.1",
+    "vue-slider-component": "^3.2.15",
+    "vue-star-rating": "^1.7.0",
+    "vue-tailwind": "^2.5.0",
+    "vue2-editor": "^2.10.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "node-sass": "^4.0.0",
+    "postcss": "^8.3.5",
+    "sass-loader": "^10.2.0",
+    "tailwindcss-dir": "^4.0.0",
+    "tailwindcss-rtl": "^0.8.0"
+  }
+}
